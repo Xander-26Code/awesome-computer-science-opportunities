@@ -113,6 +113,7 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [colah's blog](http://colah.github.io/) - Blog about neural networks. 
  * [Google Machine Learning Course](https://developers.google.com/machine-learning/crash-course) - A crash course of machine learning taught by Google Engineers
  * [Google AI](https://ai.google/education/)- Learn from ML experts at Google
+ * [Scrimba](https://scrimba.com/the-ai-engineer-path-c02v)- Learn to build apps powerd by generative AI.
 
  ### Computer Science
  * [BaseCS](https://medium.com/basecs) - Explains computer science basics in easy-to-digest articles. Also in [podcast](https://www.codenewbie.org/basecs) format.
